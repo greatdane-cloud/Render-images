@@ -1,12 +1,12 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: whitesmoke;
+    background: rgb(126, 6, 76);
     text-align: center;
-    color: #130e0f;
+    color: #ebe3e8;
 }
 
 h1 {
-    font-weight: 200;
+    font-weight: 400;
     letter-spacing: 2px;
 }
 
@@ -15,7 +15,7 @@ h1 {
 }
 
 .team-img {
-    width: 100px;
-    border-radius: 100%;
-    margin: 10px;
+    width: 200px;
+    border-radius: 10%;
+    margin: 50px;
 }
